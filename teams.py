@@ -20,7 +20,7 @@ team_L = 'Poland'
 #Group D
 team_M = 'France'
 team_N = 'Australia'
-team_O = 'Dinmark'
+team_O = 'Denmark'
 team_P = 'Tunisia'
 
 #Group E
