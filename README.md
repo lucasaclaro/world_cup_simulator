@@ -1,11 +1,24 @@
-    <h1 align="center"> World Cup Simulator </h1>
+<h1 align="center">
+  <p align="center">World Cup Simulator</p>
+</h1>
 
-    <h3>Description:</h3>
-    <h4>This project was raised in Python language.</h4>
-    <h4>It's a simulator of plays of World Cup 2022.</h4>
-    <h4>When starting the project, the plays will be simulated randomly until the end of competition.</h4>
+
+
+## Description:
+
+- This project was raised in Python language
+- It's a simulator of plays of World Cup 2022.
+- When starting the project, the plays will be simulated randomly until the end of competition.
+
+## Language used:
+
+<div style="display: inline_block"><br>
+  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+</div>
     
-    <h3>Created by:</h3>
-    <img src="https://avatars.githubusercontent.com/u/102222870?v=4" width=115><br>
-    <h5>Lucas Claro</h5>
-    <h5>https://github.com/lucasaclaro</h5>
+## Created by:
+<img src="https://avatars.githubusercontent.com/u/102222870?v=4" width=115><br>
+Lucas Claro
+https://github.com/lucasaclaro
+
+
